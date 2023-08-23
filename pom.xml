@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http:http://65.1.84.232:8080/repository/mvn-webapplication-relese/</url>
+	      <url>http://65.1.84.232:8080/repository/mvn-webapplication-relese/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.1.84.232:8080/repository/mvn-webapplication-snapsh</url>
+	      <url>http://65.1.84.232:8080/repository/mvn-webapplication-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
